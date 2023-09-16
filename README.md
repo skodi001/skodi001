@@ -3,7 +3,7 @@
 </div>
 <br><br>
 
-<p> 👋&nbsp; I’m a Junior Front-End Developer located in Warsaw, Poland.<br>
+<p> 👋&nbsp; I’m a Front-End Developer located in Warsaw, Poland.<br>
 I learn a serious passion for UI effects,animations and creating <br>
 intuitive, dynamic user experiences. <br><br>
 🚀I'm a well organized person, problem solver, independent employee & team player<br>
